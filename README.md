@@ -1,5 +1,5 @@
 ## Watcher website first look
-This is what we are gonna make throughout the Hactoberfest.
+This is what we are gonna make throughout the Hacktoberfest.
 
 <img src="https://cdn.discordapp.com/attachments/846673042893832195/1030078697975332875/unknown.png" width=90% height=auto>
 
