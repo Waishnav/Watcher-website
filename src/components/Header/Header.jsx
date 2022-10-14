@@ -1,7 +1,7 @@
 import React from "react";
 import main_img from '../.././assets/logo.svg';
 import up_arrow from '../.././assets/up-arrow.svg';
-import git_img from '../.././assets/Vector.svg';
+import git_img from '../.././assets/github.svg';
 import './Header.css';
 
 function Header() {
@@ -16,14 +16,14 @@ function Header() {
                 </p>
             </div>
 
-            <button>
+            <a href="https://github.com/Waishnav/Watcher">
                 <div className="Container_2">
                     <img src={git_img} alt="" />
                     <div className="StarUs">STAR US</div>
                     <div className="vertical"></div>
                     <div className="Likes">107</div>
                 </div>
-            </button>
+            </a>
         </div >
     );
 }
