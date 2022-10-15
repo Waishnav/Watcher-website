@@ -8,4 +8,4 @@ This is what we are gonna make throughout the Hacktoberfest.
 ![CSS3](https://img.shields.io/badge/-CSS3-orange?color=264DE4&style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20)
 
 ## Want to Contribute to Watcher ?
-Check Out  [CONTRIBUTING.md](https://github.com/Waishnav/Watcher/edit/main/CONTRIBUTING.md)
+Check Out  [CONTRIBUTING.md](https://github.com/Waishnav/Watcher/blob/main/CONTRIBUTING.md)
