@@ -39,13 +39,16 @@
     right: -32%;
 }
 
-a {
+.github_star {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
-    border: 2px solid #5C5C5C;
+    border: 2px solid #5c5c5c;
     border-radius: 4px;
     padding: 0.5rem 1rem;
     background: transparent;
+}
+
+a {
     text-decoration: none;
 }
 
@@ -63,7 +66,7 @@ a .StarUs {
 }
 
 a .vertical {
-    border-left: 2px solid #5C5C5C;
+    border-left: 2px solid #5c5c5c;
     height: 26px;
 }
 
@@ -74,31 +77,34 @@ a .Likes {
     margin-left: 1rem;
 }
 
-a:hover {
-    background-color: #5C5C5C;
+.github_star:hover {
+    background-color: #5c5c5c;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 700px) {
     .Container {
-        display: block;
+        display: flex;
+        flex-direction: column;
     }
 
     .Container_1 {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
-        margin-right: 8rem;
+        margin-right: 0rem;
+        margin-bottom: 2rem;
     }
 
     .Container_1 img {
-        margin-left: 3rem;
+        margin-left: 0rem;
     }
 
     button {
         display: none;
     }
 
-    .Container_2 {
-        display: none;
+    .github_star {
+        display: inline-block;
+        margin: 0 auto;
     }
 }
