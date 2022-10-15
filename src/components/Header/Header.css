@@ -104,7 +104,6 @@ a .Likes {
     }
 
     .github_star {
-        display: inline-block;
-        margin: 0 auto;
+        display: none;
     }
 }
