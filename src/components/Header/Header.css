@@ -81,7 +81,7 @@ a .Likes {
     background-color: #5c5c5c;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 480px) {
     .Container {
         display: flex;
         flex-direction: column;
