@@ -42,7 +42,7 @@
 a {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
-    border: 2px solid #5c5c5c;
+    border: 2px solid #5C5C5C;
     border-radius: 4px;
     padding: 0.5rem 1rem;
     background: transparent;
@@ -63,7 +63,7 @@ a .StarUs {
 }
 
 a .vertical {
-    border-left: 2px solid #5c5c5c;
+    border-left: 2px solid #5C5C5C;
     height: 26px;
 }
 
@@ -93,8 +93,8 @@ a:hover {
 
     .Container_1 img .logo {
         margin-left: 3rem;
-    }
-
+    } 
+    
     a {
         display: none;
     }
