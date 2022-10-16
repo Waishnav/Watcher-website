@@ -87,14 +87,15 @@ a:hover {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        margin-left: 3rem;
         margin-right: 8rem;
     }
 
-    .Container_1 img {
+    .Container_1 img .logo {
         margin-left: 3rem;
-    }
-
-    button {
+    } 
+    
+    a {
         display: none;
     }
 

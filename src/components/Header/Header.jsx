@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
-import main_img from '../.././assets/logo.svg';
 import up_arrow from '../.././assets/up-arrow.svg';
 import git_img from '../.././assets/github.svg';
 import './Header.css';
+import Eye from "../Eye/Eye";
 
 function Header() {
     const [stars, setStars] = useState(100);
@@ -18,7 +18,7 @@ function Header() {
     return (
         <div className="Container">
             <div className="Container_1">
-                <img src={main_img} alt="Watcher-Logo" />
+                <Eye className="logo" />
                 <p>
                     Watcher
                     <span className="borderBottom"></span>
