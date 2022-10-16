@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default Like;
+export default App;
