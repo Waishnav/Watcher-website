@@ -77,7 +77,8 @@ git merge upstream/main
 8. Stage your changes and commit:
 
 ```bash
-git cz
+git add 
+git commit -m "commitmessage"
 ```
 
 9. Push your local commits to the remote repository:
