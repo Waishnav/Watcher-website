@@ -1,5 +1,6 @@
 ## Watcher website first look
 This is what we are gonna make throughout the Hacktoberfest.
+Also do check out [Watcher](https://github.com/waishnav/watcher)
 
 <img src="https://cdn.discordapp.com/attachments/846673042893832195/1030078697975332875/unknown.png" width=90% height=auto>
 
