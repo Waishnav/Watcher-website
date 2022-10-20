@@ -81,6 +81,8 @@ a:hover {
 @media (max-width: 480px) {
     .Container {
         display: block;
+        min-height:100%;
+        position:relative;
     }
 
     .Container_1 {
