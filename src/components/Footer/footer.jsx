@@ -45,8 +45,8 @@ function Footer() {
             </div>
             <div class="footer-container">
                 <div class="row">
-                    <div class="col-lg-10 ">
-                        <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by
+                    <div class="col-lg-12 ">
+                        <p class="copyright-text">Copyright &copy; 2022 
 
                         </p>
                     </div>
