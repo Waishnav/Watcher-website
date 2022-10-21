@@ -21,7 +21,6 @@ function Header() {
                 <Eye className="logo" />
                 <p>
                     Watcher
-                    <span className="borderBottom"></span>
                     <img src={up_arrow} alt="" />
                 </p>
             </div>

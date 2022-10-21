@@ -38,14 +38,19 @@
     top: 10%;
     right: -32%;
 }
+.Container_1 p{
+text-decoration: 1px underline;
+text-underline-offset: 5px;
+
+}
 
 a {
-    background: rgba(0, 0, 0, 0.6);
-    color: #fff;
-    border: 2px solid #5C5C5C;
-    border-radius: 4px;
-    padding: 0.5rem 1rem;
+    background: rgba(0,0,0,.6);
     background: transparent;
+    border: 2px solid #5c5c5c;
+    border-radius: 4px;
+    color: #fff;
+    padding: 0.5rem 1rem;
     text-decoration: none;
 }
 
@@ -60,11 +65,13 @@ a .StarUs {
     font-size: 1rem;
     font-weight: 500;
     margin-right: 1rem;
+
 }
 
 a .vertical {
     border-left: 2px solid #5C5C5C;
     height: 26px;
+    
 }
 
 a .Likes {
@@ -81,23 +88,20 @@ a:hover {
 @media (max-width: 480px) {
     .Container {
         display: block;
-        min-height:100%;
-        position:relative;
     }
 
     .Container_1 {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-left: 3rem;
         margin-right: 8rem;
     }
 
-    .Container_1 img .logo {
+    .Container_1 img {
         margin-left: 3rem;
-    } 
-    
-    a {
+    }
+
+    button {
         display: none;
     }
 
