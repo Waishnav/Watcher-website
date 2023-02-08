@@ -1,4 +1,6 @@
 ## Watcher website first look
+
+### Note: This repostory is moved to the branch `website` in Watcher repository, for furthur developement after Hacktoberfest.
 This is what we are gonna make throughout the Hacktoberfest.
 Also do check out [Watcher](https://github.com/waishnav/watcher)
 
